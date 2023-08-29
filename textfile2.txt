@@ -1,2 +1,3 @@
 hello friends,
-we are going to learn jquery today
+we are going to learn jquery today.
+what is jquery?
